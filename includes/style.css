@@ -18,7 +18,7 @@ a{
     width: 1110px;
 }
 header #logo{
-    background-image: url(/images/Star.png);
+    background-image: url(images/Star.png);
     background-size:contain;
     background-position: left center;
     width:88px;
