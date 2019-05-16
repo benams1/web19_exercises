@@ -284,6 +284,8 @@ nav ul li a:hover{
     font-style: normal;
     font-weight: normal;
     font-size: 64px;
+    text-align: center;
+    
 }
 #layout3 .box{
     background: #000000;
