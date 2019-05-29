@@ -22,8 +22,8 @@
         <nav class="navbar navbar-light bg-light lighten-4">
 
         <!-- Navbar brand -->
-            <a class="navbar-brand " href="#">
-                    <img src="images/logo.png" id="logoIcon" class="img-fluid" alt="">
+            <a class="navbar-brand " href="../index.html">
+                    <img src="../images/logo.png" id="logoIcon" class="img-fluid" alt="">
 
             </a>
       
@@ -38,7 +38,7 @@
           <!-- Links -->
             <ul class="navbar-nav mr-auto float-right">
                 <li class="nav-item ">
-                    <a class="nav-link float-right" href="#">ניהול צמיד<span class="sr-only">(current)</span></a>
+                    <a class="nav-link float-right" href="#">ניהול צמיד</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link float-right" href="#">ניהול תרופות</a>
@@ -94,19 +94,19 @@
         <div class="container">
             <div class="row align-items-center justify-content-center footerRow">
                 <div class="col text-center">
-                    <a ref="#" ><img src="images/footerSearch.png" alt=""></a>
+                    <a ref="#" ><img src="../images/footerSearch.png" alt=""></a>
                 </div>
                 <div class="col text-center">
-                    <a href="#" ><img  src="images/footerSettings.png" alt=""></a>
+                    <a href="#" ><img  src="../images/footerSettings.png" alt=""></a>
                 </div>
                 <div class="col text-center">
-                    <a href="#" ><img src="images/footerEvent.png" alt=""></a>
+                    <a href="#" ><img src="../images/footerEvent.png" alt=""></a>
                 </div>
                 <div class="col text-center">
-                    <a href="index.html" ><img src="images/footerHome.png" alt=""></a>
+                    <a href="../index.html" ><img src="../images/footerHome.png" alt=""></a>
                 </div>
                 <div class="col text-center">
-                    <a href="#" ><img src="images/footerReturn.png" alt=""></a>
+                    <a href="#" ><img src="../images/footerReturn.png" alt=""></a>
                 </div>
             </div>
         </div>
